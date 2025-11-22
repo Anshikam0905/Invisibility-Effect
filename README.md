@@ -5,12 +5,12 @@ When the camera detects green color in the frame, it replaces that area with a b
 
 # Features
 
-• Written 100% in Python
-• Real-time invisibility cloak effect
-• Works using green cloth / green screen
-• Uses HSV color masking for accurate detection
-• Clean output using morphological operations
-• Includes high-quality background replacement
+• Written 100% in Python <br>
+• Real-time invisibility cloak effect <br>
+• Works using green cloth / green screen <br>
+• Uses HSV color masking for accurate detection <br>
+• Clean output using morphological operations <br>
+• Includes high-quality background replacement <br>
 
 # Technologies Used
 
